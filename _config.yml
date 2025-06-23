@@ -43,8 +43,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 href: /archive/
               - title: '标签 / Tags'
                 href: /tags/
-              - title: '捐赠 / Donate'
-                href: /donate/
               - title: 'jekyll-theme-WuK'
                 href: https://jekyll-theme-WuK.wu-kan.cn/
             footer: | # 页面统计
@@ -61,9 +59,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                   src="https://cdn.jsdelivr.net/npm/busuanzi@2.3/bsz.pure.mini.js"
                   async="async"
                 ></script>
-              </div>
-              <div>
-                (C) 2017-2025 wu-kan
               </div>
             jekyll-toc: # <https://github.com/allejo/jekyll-toc>
               enable: true
